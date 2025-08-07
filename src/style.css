@@ -1,5 +1,5 @@
 body {
-  background: #f9f7fe;
+  /* background: #f9f7fe; */
   font-family: "Roboto", sans-serif;
 }
 
@@ -14,7 +14,11 @@ a {
   padding: 30px;
   border-radius: 10px;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
-  background-image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheconversation.com%2Fwhy-the-weather-forecast-will-always-be-a-bit-wrong-101547&psig=AOvVaw0Hey5dc0Hc3clfxbeXw1ul&ust=1754592333351000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCamv3r9o4DFQAAAAAdAAAAABAE";
+
+  background-image: url("https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 header {
